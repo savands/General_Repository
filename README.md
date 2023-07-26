@@ -1,2 +1,2 @@
 # savands_YP_1
-Projects made in Yandex Practicum
+Проекты выполненные в Яндекс Практикуме.
